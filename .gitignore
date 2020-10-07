@@ -1,3 +1,4 @@
 .DS_Store
 workshop1/.ipynb_checkpoints/
-
+workshop1/__pycache__/
+workshop1/*.mov
