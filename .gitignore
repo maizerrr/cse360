@@ -6,3 +6,7 @@ workshop1/*.mov
 workshop3/remoteApi.dylib
 workshop3/sim.py
 workshop3/simConst.py
+
+workshop4/remoteApi.dylib
+workshop4/sim.py
+workshop4/simConst.py
